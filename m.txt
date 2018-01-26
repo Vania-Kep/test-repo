@@ -13,6 +13,5 @@ Sign up to receive email updates on special promotions, new product announcement
 Order History
 Receive important information about your order. You can even track it up to the minute it arrives.
 
-Faster Checkout
-Save your billing and shipping information to make it easier to buy your favorite gear.
-(read more about security)
+
+I do here commit 3
